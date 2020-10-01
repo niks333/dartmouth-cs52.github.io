@@ -8,7 +8,7 @@ Source for the website for Dartmouth CS52.  Updated periodically.  Now includes 
 
 Built with: [Jekyll](https://jekyllrb.com/), [GitHub Pages](https://pages.github.com/), and [Remarkjs](https://github.com/gnab/remark)
 
-### Local installation
+### LOCAL INSTALLATION
 
 `gem install bundle`
 
@@ -22,7 +22,7 @@ or
 
 
 
-### Slide Integration
+### SLIDE INTEGRATION
 
 uses [remarkjs](https://github.com/gnab/remark) for building slides - if you use the
 
@@ -55,7 +55,7 @@ By default the slide content will also be shown in converted markdown on the pag
 
 
 
-### Search Powered by Algolia
+### SEARCH POWERED BY ALGOLIA
 
 Create an `_algolia_api_key` file and copy the key from the [dashboard](https://www.algolia.com).
 
